@@ -1,5 +1,11 @@
 # VoiceERC
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/2407-21315/emotion-recognition-in-conversation-on)](https://paperswithcode.com/sota/emotion-recognition-in-conversation-on?p=2407-21315)
+
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/2407-21315/emotion-recognition-in-conversation-on-meld)](https://paperswithcode.com/sota/emotion-recognition-in-conversation-on-meld?p=2407-21315)
+
+
 #### Abstract: 
 We address the limitation of LLMs in processing audio inputs by translating speech characteristics into natural language descriptions. Our method integrates these descriptions into text prompts, enabling LLMs to perform multimodal emotion analysis without architectural modifications or addition. 
 
