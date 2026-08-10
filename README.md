@@ -1,3 +1,5 @@
+
+
 # SpeechCueLLM
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/2407-21315/emotion-recognition-in-conversation-on)](https://paperswithcode.com/sota/emotion-recognition-in-conversation-on?p=2407-21315)
@@ -19,7 +21,7 @@ Our experiments reveal that incorporating speech descriptions leads to an improv
 
 Figure 1: LLM Prompt Template for Emotion Detection: the last bold sentence with an underline is the target utterance. The orange part denotes outputs with added speech descriptions. This structured template integrates textual context and speech characteristics to guide the LLM in performing multimodal emotion analysis.
 
-Paper link: https://arxiv.org/abs/2407.21315
+Paper link: https://arxiv.org/abs/2407-21315
 
 
 ## Extract Speech Features
@@ -28,7 +30,7 @@ Paper link: https://arxiv.org/abs/2407.21315
 You can also use the existing feature files in the speech_features folder.
 
 #### Data Directory
-To run our preprocessing codes directly, please download data and put into the data drirectory.
+To run our preprocessing codes directly, please download data and put into the data directory.
 
 #### Run Extraction Code
 1. extract basic speech features (adjust arguments based on the dataset)
